@@ -8,13 +8,13 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
-    "@kinde-oss/kinde-auth-nextjs": "^2.4.6",
-    "axios": "^1.7.9",
-    "next": "^15.1.6",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
-  },
+ "dependencies": {
+  "@kinde-oss/kinde-auth-nextjs": "^2.4.6",
+  "axios": "^1.7.9",
+  "next": "^13.2.4",  
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0"  
+},
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@types/node": "22.10.10",
